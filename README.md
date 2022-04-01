@@ -1,13 +1,3 @@
-- 👋 Hi, I’m Busra
-- 🙆🏻‍♀️ I'm coding project with JS, HTML, Vuejs CSS and Bootstrap
-- 🤓 I’m currently learning JS and Vuejs 
-- 📩 How to reach me: busraaceval@gmail.com
-
-<!---
-bzceval/bzceval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="400" height="250">
 
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Busra 
@@ -18,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <font color="pink"> 🧐 A new age enthusiast. </font>
 </br>
 <font color="pink">☕ Coffee coffe is how I keep up with `<code/>`</font>
-
+<font color="pink"> 📩 How to reach me: busraaceval@gmail.com </font>
 </br>
 </br>
 
