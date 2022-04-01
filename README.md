@@ -7,7 +7,7 @@
 </br>
 <font color="pink"> 🧐 A new age enthusiast. </font>
 </br>
-<font color="pink">☕ Coffee coffe is how I keep up with `<code/>`</font>
+<font color="pink">☕ Coffee coffe is how I keep up with code</font>
 </br>
 📩 How to reach me: busraaceval@gmail.com
 </br>
