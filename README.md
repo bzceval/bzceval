@@ -8,6 +8,7 @@
 <font color="pink"> 🧐 A new age enthusiast. </font>
 </br>
 <font color="pink">☕ Coffee coffe is how I keep up with `<code/>`</font>
+</br>
 <font color="pink"> 📩 How to reach me: busraaceval@gmail.com </font>
 </br>
 </br>
