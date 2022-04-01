@@ -24,11 +24,12 @@
 </br>
 </br>
 <details>
-<summary>:bulb:🌚 Github Stats</summary>
+<summary>💡 Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=bzceval&theme=nightowl&show_icons=true">
 </details>
 </br>
 </br>
-<summary>:bulb:🌚 Most Used Language</summary>
+<details>
+<summary>💡 Most Used Language</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzceval&layout=compact">
 </details>
