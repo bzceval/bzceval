@@ -9,7 +9,7 @@
 </br>
 <font color="pink">☕ Coffee coffe is how I keep up with `<code/>`</font>
 </br>
-<font color="pink"> 📩 How to reach me: busraaceval@gmail.com </font>
+📩 How to reach me: busraaceval@gmail.com
 </br>
 </br>
 
