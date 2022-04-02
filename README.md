@@ -25,7 +25,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="50" height="50"> 
 <img src="https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" width="45" height="45">  
 <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b6/28/a1/b628a10a-bd9f-3c7f-41eb-d227536d32d6/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" width="45" height="45">  
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DynamoDB.png/220px-DynamoDB.png" width="45" height="45"> 
+ <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="45" height="45"> 
 </summary>
 </br>
 </br>
