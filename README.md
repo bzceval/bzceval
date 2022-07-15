@@ -30,12 +30,6 @@
 </br>
 </br>
 <details>
-<summary>💡 Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=bzceval&theme=nightowl&show_icons=true">
-</details>
-</br>
-</br>
-<details>
 <summary>💡 Most Used Language</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzceval&layout=compact">
 </details>
