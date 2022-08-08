@@ -51,15 +51,15 @@
 
 <img
         src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
-        alt=""
+        alt="Sass"
       />
 <img
         src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
-        alt=""
+        alt="Styled Component"
       />
 <img
         src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
-        alt=""
+        alt="Material UI"
       />
       </br>
 <img
@@ -68,19 +68,15 @@
       />
 <img
         src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
-        alt=""
+        alt="Django"
       />
 <img
         src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
-        alt=""
+        alt="Netlify"
       />
 <img
         src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-        alt=""
-      />
-<img
-        src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
-        alt=""
+        alt="Heroku"
       />
 <img
         src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
@@ -105,6 +101,27 @@
 <img
         src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
         alt=""
+      />
+      </br>
+<img
+        src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+        alt="Figma"
+      />
+<img 
+     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+     alt="VSCode"
+     />
+<img 
+     src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
+      alt="Trello"
+      />
+ <img 
+      src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+      alt="GIT"
+      />
+ <img 
+      src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
+      alt="JIRA"
       />
 
 </div>
