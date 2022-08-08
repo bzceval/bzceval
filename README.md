@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Busra 
-### ✨ Frontend Developer | 💙 Loves JavaScript
+<font color="pink">✨ Frontend Developer | 💙 Loves JavaScript </font>
 <font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
 </br>
 <font color="pink"> 🧐 A new age enthusiast. </font>
