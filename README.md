@@ -88,7 +88,11 @@
       />
 <img
         src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"
-        alt=""
+        alt="Firebase"
+      />
+        <img
+        src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
+        alt="AWS"
       />
 <img
         src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"
