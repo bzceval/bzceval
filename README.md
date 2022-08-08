@@ -143,7 +143,7 @@
 
 <h2 align="center">💡 Most Used Language</h2>
 <div  align="center">
-<br/><br/><br/>
+<br/>
 <img
      src="https://github-readme-stats.vercel.app/api?username=bzceval&theme=blue-green"
      alt=""
