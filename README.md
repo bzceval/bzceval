@@ -62,7 +62,6 @@
         alt="Material UI"
       />
       </br>
-      </br>
       
 <img 
      src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
@@ -111,7 +110,6 @@
         alt="AWS"
       />
       <br>
-      <br>
 <img
         src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
         alt="Netlify"
@@ -125,12 +123,10 @@
       alt="Google Cloud"
       />
       </br>
-      </br>
 <img
       src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
       alt="Figma"
       />
-     </br>
      </br>
 <img 
      src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
