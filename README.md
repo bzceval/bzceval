@@ -141,7 +141,7 @@
 
 </div>
 
-<details>
+
 <summary>💡 Most Used Language</summary>
 <div  align="center">
 <br/><br/><br/>
@@ -150,8 +150,7 @@
             alt=""
         /> <br/>
 <img
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzceval&theme=blue-green"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username={bzceval}&theme=blue-green"
             alt=""
         /> <br/>
 </div>
-</details>
