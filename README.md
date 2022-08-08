@@ -1,16 +1,13 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br></br>
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Busra 
 ### ✨ Frontend Developer | 💙 Loves JavaScript
-</br> 
 <font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
 </br>
 <font color="pink"> 🧐 A new age enthusiast. </font>
 </br>
 <font color="pink">☕ Coffee coffe is how I keep up with code</font>
-</br>
 
 ### 📩 Connect with me:
-
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busra-zulal-ceval/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:busraaceval@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@busraaceval)
