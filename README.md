@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left" width="500">
-
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Busra 
 ### ✨ Frontend Developer | 💙 Loves JavaScript
 </br> 
@@ -12,6 +10,7 @@
 📩 How to reach me: busraaceval@gmail.com
 </br>
 </br>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left" width="500">
 
 <h2 align="center">🚀Technical Skills</h2>
 <div align="center">
@@ -21,10 +20,6 @@
       />
 <img
         src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-        alt=""
-      />
-        <img
-        src="https://img.shields.io/badge/Vue-593D88?style=for-the-badge&logo=vue&logoColor=white"
         alt=""
       />
 <img
