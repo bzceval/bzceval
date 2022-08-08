@@ -155,5 +155,3 @@
 </div>
 
 <div  align="center"> <img src="https://github.com/SdtAslan/SdtAslan/blob/output/github-contribution-grid-snake.svg" /></div>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzceval&theme=buefy &layout=compact" alt="languages" width="50%" > </p>
