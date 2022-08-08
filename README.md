@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500" height="300"></br>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500" height="400"></br>
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Busra 
 ### ✨ Frontend Developer | 💙 Loves JavaScript
 <font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
