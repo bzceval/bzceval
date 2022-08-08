@@ -141,7 +141,7 @@
       />
 </div>
 </br>
-<h2 align="center">💡 Most Used Language</h2>
+<h2 align="center">💡Most Used Language</h2>
 <div  align="center">
 <br/>
 <img
