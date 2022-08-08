@@ -138,9 +138,8 @@
       src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
       alt="JIRA"
       />
-
 </div>
-
+</br>
 <h2 align="center">💡 Most Used Language</h2>
 <div  align="center">
 <br/>
