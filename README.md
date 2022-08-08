@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 ## 👷🏻‍♀️👋🏻 Hi there, I'm Busra 
 ### ✨ Frontend Developer | 💙 Loves JavaScript
 </br> 
