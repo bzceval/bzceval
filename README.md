@@ -63,14 +63,19 @@
       />
       </br>
       </br>
-      <img
-        src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"
-        alt="YARN"
-      />
+      
+<img 
+     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
+     alt="VSCode"
+     />
 <img
-        src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
-        alt="NPM"
-      />
+     src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"
+     alt="YARN"
+     />
+<img
+     src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
+     alt="NPM"
+     />
       </br>
       </br>
 <img
@@ -125,10 +130,6 @@
       src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
       alt="Figma"
       />
-<img 
-     src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
-     alt="VSCode"
-     />
      </br>
      </br>
 <img 
