@@ -63,6 +63,16 @@
       />
       </br>
       </br>
+      <img
+        src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"
+        alt="YARN"
+      />
+<img
+        src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
+        alt="NPM"
+      />
+      </br>
+      </br>
 <img
         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
         alt="Python"
@@ -95,14 +105,6 @@
         src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
         alt="AWS"
       />
-<img
-        src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"
-        alt="YARN"
-      />
-<img
-        src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
-        alt="NPM"
-      />
       <br>
       <br>
 <img
@@ -118,6 +120,7 @@
       alt="Google Cloud"
       />
       </br>
+      </br>
 <img
       src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
       alt="Figma"
@@ -125,7 +128,9 @@
 <img 
      src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
      alt="VSCode"
-     /></br></br>
+     />
+     </br>
+     </br>
 <img 
      src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
       alt="Trello"
