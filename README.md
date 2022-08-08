@@ -9,8 +9,9 @@
 </br>
 📩 How to reach me: busraaceval@gmail.com
 </br>
-</br>
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="left" width="500">
+</br>
+
 
 <h2 align="center">🚀Technical Skills</h2>
 <div align="center">
