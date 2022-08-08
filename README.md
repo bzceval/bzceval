@@ -153,9 +153,7 @@
      alt=""
      /> <br/>
 </div>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bzceval&theme=buefy " alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bzceval&theme=buefy&" alt="my commit status" width="49%" /> </p>
+
 <div  align="center"> <img src="https://github.com/SdtAslan/SdtAslan/blob/output/github-contribution-grid-snake.svg" /></div>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzceval&theme=buefy &layout=compact" alt="languages" width="50%" > </p>
