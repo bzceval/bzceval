@@ -140,15 +140,18 @@
       />
 
 </div>
-### Tech I Use Language and Tecnology
-<summary>
-<img src="https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" width="45" height="45">  
-<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple112/v4/b6/28/a1/b628a10a-bd9f-3c7f-41eb-d227536d32d6/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png" width="46">  
- <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="45" height="45"> 
-</summary>
-</br>
-</br>
+
 <details>
 <summary>💡 Most Used Language</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzceval&layout=compact">
+<div  align="center">
+<br/><br/><br/>
+<img
+            src="https://github-readme-stats.vercel.app/api?username=bzceval&theme=blue-green"
+            alt=""
+        /> <br/>
+<img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzceval&theme=blue-green"
+            alt=""
+        /> <br/>
+</div>
 </details>
