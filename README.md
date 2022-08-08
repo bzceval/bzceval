@@ -146,7 +146,7 @@
 <div  align="center">
 <br/><br/><br/>
 <img
-            src="https://github-readme-stats.vercel.app/api?username=bzceval&theme=blue-green"
+            src="https://github-readme-stats.vercel.app/api?username={bzceval}&theme=blue-green"
             alt=""
         /> <br/>
 <img
