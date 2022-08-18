@@ -146,7 +146,7 @@
       />
 </div>
 </br>
-<div  align="center"> <img src="https://github.com/bzceval/SdtAsln/blob/output/github-contribution-grid-snake.svg" /></div>
+<div  align="center"> <img src="https://github.com/bzceval/SdtAslan/blob/output/github-contribution-grid-snake.svg" /></div>
 <br>
 <h2 align="center">💡Most Used Language</h2>
 <div  align="center">
