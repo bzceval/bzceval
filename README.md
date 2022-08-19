@@ -1,5 +1,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
-## 👷🏻‍♀️👋🏻 Hi there, I'm Busra 
+
+## 👷🏻‍♀️👋🏻 Hi there, I'm Busra
+
 <font color="pink"> 🐱‍🏍 I'm Electric and Electronic Engineer but I find myself in software. </font>
 </br>
 <font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
@@ -9,14 +11,14 @@
 <font color="pink">☕ Coffee is how I keep up with code</font>
 
 #### 📬 Connect with me:
+
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busra-zulal-ceval/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:busraaceval@gmail.com)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@busraaceval)
 
 </br>
 </br>
-</br> 
-
+</br>
 
 <h2 align="center">🚀Technical Skills</h2>
 <div align="center">
@@ -65,8 +67,8 @@
         src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
         alt="Material UI"
       />
-      </br>
-      
+</br>
+
 <img 
      src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
      alt="VSCode"
@@ -79,8 +81,8 @@
      src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
      alt="NPM"
      />
-      </br>
-      </br>
+</br>
+</br>
 <img
         src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
         alt="Python"
@@ -113,7 +115,7 @@
         src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
         alt="AWS"
       />
-      <br>
+<br>
 <img
         src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"
         alt="Netlify"
@@ -122,12 +124,12 @@
         src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
         alt="Heroku"
       />
- <img 
+<img 
       src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"
       alt="Google Cloud"
       />
-      </br>
-      </br>
+</br>
+</br>
 <img
       src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
       alt="Figma"
@@ -136,14 +138,15 @@
      src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"
       alt="Trello"
       />
- <img 
+<img 
       src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
       alt="GIT"
       />
- <img 
+<img 
       src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"
       alt="JIRA"
       />
+
 </div>
 </br>
 <div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
