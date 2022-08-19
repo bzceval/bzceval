@@ -151,10 +151,7 @@
 </br>
 <div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
 <br>
-<img
-     src="https://raw.githubusercontent.com/bzceval/bzceval/main/profile-3d-contrib/profile-night-green.svg"
-     alt=""
-     />
+
 <h2 align="center">💡Most Used Language</h2>
 <div  align="center">
 <br/>
