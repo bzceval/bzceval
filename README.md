@@ -155,7 +155,6 @@
      src="https://raw.githubusercontent.com/bzceval/bzceval/main/profile-3d-contrib/profile-night-green.svg"
      alt=""
      />
-![GitHub stats](https://raw.githubusercontent.com/bzceval/bzceval/main/profile-3d-contrib/profile-night-green.svg)
 <h2 align="center">💡Most Used Language</h2>
 <div  align="center">
 <br/>
