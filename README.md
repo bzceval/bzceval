@@ -148,6 +148,7 @@
 </br>
 <div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
 <br>
+![GitHub stats](https://raw.githubusercontent.com/scriptex/scriptex/master/profile-3d-contrib/profile-night-green.svg)
 <h2 align="center">💡Most Used Language</h2>
 <div  align="center">
 <br/>
