@@ -38,7 +38,7 @@
 </p>      
 
 <p align="center">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="45" height="45" alt="Figma" /></a><a href="https://trello.com/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/126px-Trello_logo.svg.png?20210216184934" width="60" height="40" alt="Trello" /></a><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=578" width="100" height="100" alt="JIRA" /></a></p>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a><a href="https://trello.com/en" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/126px-Trello_logo.svg.png?20210216184934" width="60" height="30" alt="Trello" /></a><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=578" width="45" height="45" alt="JIRA" /></a></p>
 </br>
 </p>
 
