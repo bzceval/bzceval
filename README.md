@@ -19,7 +19,7 @@
 </br>
 </br>
 
-<br><br>3. 💻 **SKILL, TOOL & SOFTWARE**<br>
+<br><br>1. 💻 **SKILL, TOOL & SOFTWARE**<br>
 <div>
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/html_aladdinGene.png" width="60" alt="html" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
