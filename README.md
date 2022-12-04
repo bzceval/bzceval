@@ -19,6 +19,44 @@
 </br>
 </br>
 
+<br><br>3. 💻 **SKILL, TOOL & SOFTWARE**<br>
+<div>
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/html_aladdinGene.png" width="60" alt="html" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/javascript_aladdinGene.gif" width="60" alt="javascript" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/php_aladdinGene.gif" width="60" alt="php" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/python_aladdinGene.gif" width="60" alt="python" />
+    <img src="https://github.com/neural-tangjie/neural-tangjie/blob/main/images/Matlab_logo.png" width="60" alt="matlab" />
+    <img src="https://github.com/neural-tangjie/neural-tangjie/blob/main/images/R_logo.gif" width="60" alt="r" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/ts_aladdinGene.gif" width="60" alt="typescript" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/react_aladdinGene.gif" width="60" alt="react" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/next_aladdinGene.png" width="60" alt="next" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/vue1_aladdinGene.gif" width="60" alt="vue" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/nuxt_aladdinGene.avif" width="60" alt="nuxt" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/laravel_aladdinGene.jpeg" width="60" alt="laravel" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/codeigniter_aladdinGene.png" width="60" alt="codeigniter" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/android_aladdinGene.gif" width="60" alt="android" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/java_aladdinGene.gif" width="60" alt="Java" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/Kotlin_aladdinGene.jfif" width="60" alt="kotlin" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/apple_aladdinGene.gif" width="60" alt="iOS" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/svg_aladdinGene.gif" width="60" alt="svg" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/angular_aladdinGene.gif" width="60" alt="angular" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/django_aladdinGene.png" width="60" alt="django" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/flask_aladdinGene.png" width="60" alt="flask" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/docker_aladdinGene.png" width="60" alt="docker" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/aws_aladdinGene.gif" width="60" alt="aws" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/kendo_aladdinGene.webp" width="60" alt="kendo" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/flutter_aladdinGene.gif" width="60" alt="flutter" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/bootstrap_aladdinGene.png" width="60" alt="bootstrap" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/csharp_aladdinGene.png" width="60" alt="c&num;" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/c++_aladdinGene.png" width="60" alt="c++" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/zoho_aladdinGene.jfif" width="60" alt="zoho" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/firebase_aladdinGene.webp" width="60" alt="firebase" />
+    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/git_aladdinGene.gif" width="60" alt="git" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 <h2 align="center">🚀Technical Skills</h2>
 <p align="center"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="45" height="45" alt="React" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="45" height="45" alt="Redux" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="45" height="45" alt="Vue" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="45" height="45" alt="Express" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" height="45" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" height="45" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="45" height="45" alt="JQuery" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="45" height="45" alt="Bootstrap" /></a>
