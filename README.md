@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"></br>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="50%"></br>
 
 <br><br>1.  👩🏻‍💻 **ME, MYSELF & I**<br>
 
