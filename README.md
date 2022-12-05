@@ -1,9 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="300"></br>
 
 <br><br>1.  👩🏻‍💻 **ME, MYSELF & I**<br>
-&emsp;&emsp;&emsp;
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:busraaceval@gmail.com) &emsp;[![LinkedIn - Busra Zulal Ceval](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busra-zulal-ceval/)&emsp;
-[![Twitter - @bzceval](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bzceval)&emsp;[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@busraaceval)&emsp;
 
 &emsp;&emsp;&emsp;<font color="pink"> 🐱‍🏍 I'm Electric and Electronic Engineer but I find myself in software. </font> </br>
 &emsp;&emsp;&emsp;<font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
@@ -11,6 +8,10 @@
 &emsp;&emsp;&emsp;<font color="pink"> 🧐 A new age enthusiast. </font>
 </br>
 &emsp;&emsp;&emsp;<font color="pink">☕ Coffee is how I keep up with code</font> <br>
+
+&emsp;&emsp;&emsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:busraaceval@gmail.com) &emsp;[![LinkedIn - Busra Zulal Ceval](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busra-zulal-ceval/)&emsp;
+[![Twitter - @bzceval](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bzceval)&emsp;[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@busraaceval)&emsp;
 
 After 4 years of engineering education, I graduated with a 3.2 GPO as the fourth in the school. I tried myself in both electrical and electronic engineering, I managed many projects in the field of electricity. Afterwards, I took my first steps into software with a startup that developed applications in the field of Industry 4.0 and Artificial Intelligence, which was established in the Technopark with the American culture. While you were a intern here, you could be promoted as a junior in the field where your skills are prone, by being tried in every field like play dough.<font color="pink"> As an engineer, I was promoted as Frontend Developer as the first junior among 5 intern. </font> The first award I received as a developer was to develop the company site according to my own imagination. I was transferring raw data from end-to-end connected machines in the factory to the frontend using vue js. At the same time, I worked as a project manager in the side project of the company. Result-oriented Front End Developer passionate about learning new technologies and prone to teamwork. I like to take responsibility wherever I am. I always keep myself updated and share what I learn. <br>
 
