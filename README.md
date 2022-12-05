@@ -55,7 +55,7 @@ After 4 years of engineering education, I graduated with a 3.2 GPO as the fourth
 
 <br><br>3. 💡 **MOST USED LANGUAGE**<br><br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzceval&theme=blue-green" width="100%"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzceval&theme=blue-green"
      alt=""
      /> <br/>
      
