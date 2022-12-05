@@ -19,7 +19,20 @@
 </br>
 </br>
 
-<br><br>1. 💻 **SKILL, TOOL & SOFTWARE**<br>
+<br><br>1.  👩🏻‍💻 **ME, MYSELF & I**<br>
+
+Although I started out with a biology background as an undergraduate, I found that I had a strong interest in programming after being involved in taking charge of [wiki building and code writing](https://2016.igem.org/Team:NEFU_China) in International Genetically Engineered Machine [(iGEM)](https://igem.org/) in my junior year. <br>So I started to work in the field of combining medical [(DRCMR)](https://www.drcmr.dk/) and artificial intelligence [(CASIA)](http://english.ia.cas.cn/) in my master's degree, and I am committed to explore and discover in the interdisciplinary field.<br>
+
+&emsp;&emsp;&emsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:busraaceval@gmail.com) &emsp;[![LinkedIn - Busra Zulal Ceval](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busra-zulal-ceval/)&emsp;
+[![Twitter - @bzceval](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bzceval)&emsp;[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@busraaceval)&emsp;
+
+&emsp;&emsp;&emsp;**Tenet :**&emsp;&emsp;&emsp;Doing science research with strength and doing science popularization with warmth. <br>
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<br><br>2. 💻 **SKILL, TOOL & SOFTWARE**<br>
 <div>
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/html_aladdinGene.png" width="60" alt="html" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
