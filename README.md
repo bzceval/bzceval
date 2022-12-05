@@ -30,15 +30,10 @@
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/react_aladdinGene.gif" width="60" alt="react" /> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="60" alt="redux" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/vue1_aladdinGene.gif" width="60" alt="vue" />
-    
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-    
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/bootstrap_aladdinGene.png" width="60" alt="bootstrap" /> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="60" alt="sass" />
     <img src="https://styled-components.com/logo.png" width="60" alt="styledcomponent" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="60" alt="mui" />
-    
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="60" alt="mui" /> 
     
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="60" alt="express" /> 
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/svg_aladdinGene.gif" width="60" alt="svg" /> 
