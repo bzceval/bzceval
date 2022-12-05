@@ -53,9 +53,9 @@ After 4 years of engineering education, I graduated with a 3.2 GPO as the fourth
 <div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>
 <br>
 
-<br><br>2. 💡 **MOST USED LANGUAGE**<br>
+<br><br>3. 💡 **MOST USED LANGUAGE**<br><br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzceval&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bzceval&theme=blue-green" width="100%"
      alt=""
      /> <br/>
      
