@@ -2,7 +2,7 @@
 
 <br><br>1.  👩🏻‍💻 **ME, MYSELF & I**<br>
 
-<font color="pink"> 🐱‍🏍 I'm Electric and Electronic Engineer but I find myself in software. </font> <br>
+<font color="pink"> 🐱‍🏍 I'm Electric and Electronic Engineer but I find myself in software. </font> After 4 years of engineering education, I graduated with a 3.2 GPO as the fourth in the school.   <br>
 
 &emsp;&emsp;&emsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:busraaceval@gmail.com) &emsp;[![LinkedIn - Busra Zulal Ceval](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busra-zulal-ceval/)&emsp;
@@ -10,9 +10,9 @@
 
 &emsp;&emsp;&emsp;<font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
 </br>
-<font color="pink"> 🧐 A new age enthusiast. </font>
+&emsp;&emsp;&emsp;<font color="pink"> 🧐 A new age enthusiast. </font>
 </br>
-<font color="pink">☕ Coffee is how I keep up with code</font> <br>
+&emsp;&emsp;&emsp;<font color="pink">☕ Coffee is how I keep up with code</font> <br>
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
