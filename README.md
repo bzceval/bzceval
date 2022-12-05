@@ -27,6 +27,7 @@
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/python_aladdinGene.gif" width="60" alt="python" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/ts_aladdinGene.gif" width="60" alt="typescript" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/react_aladdinGene.gif" width="60" alt="react" /> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="60" alt="react" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/vue1_aladdinGene.gif" width="60" alt="vue" />       
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/svg_aladdinGene.gif" width="60" alt="svg" /> 
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/django_aladdinGene.png" width="60" alt="django" /> 
