@@ -44,8 +44,8 @@ After 4 years of engineering education, I graduated with a 3.2 GPO as the fourth
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/firebase_aladdinGene.webp" width="60" alt="firebase" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/git_aladdinGene.gif" width="60" alt="git" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="60" alt="figma" />
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/126px-Trello_logo.svg.png?20210216184934" width="60" alt="trello" />
-    <img src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=578" width="60" alt="jira" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/126px-Trello_logo.svg.png?20210216184934" width="100" alt="trello" />
+    <img src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=578" width="100" alt="jira" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
