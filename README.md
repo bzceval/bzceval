@@ -68,4 +68,5 @@ After 4 years of engineering education, I graduated with a 3.2 GPO as the fourth
 
 [Daily Task App](https://github.com/bzceval/javascript-daily-task-app) | [Cocktail Cheers App](https://github.com/bzceval/reactjs-cocktail-cheers-app) | [Yummy Checkout App](https://github.com/bzceval/javascript-yummy-macaron-app) | [Movie App](https://github.com/bzceval/reactjs-movie-application)
 --- | --- | --- | ---
-![Daily Task App](https://user-images.githubusercontent.com/100320309/194820640-fd4b09d7-3575-441c-ac5a-67247576350a.gif) | ![@Coctail](https://user-images.githubusercontent.com/100320309/204961075-9f2b7dcd-1b10-447d-8c09-bd3b16f077a9.gif) | ![yummy](https://user-images.githubusercontent.com/100320309/205872604-d875eb46-e167-4ffd-afd3-b78d986641db.gif) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
+![Daily Task App](https://user-images.githubusercontent.com/100320309/194820640-fd4b09d7-3575-441c-ac5a-67247576350a.gif) | ![@Coctail](https://user-images.githubusercontent.com/100320309/204961075-9f2b7dcd-1b10-447d-8c09-bd3b16f077a9.gif) | ![yummy](https://user-images.githubusercontent.com/100320309/205872604-d875eb46-e167-4ffd-afd3-b78d986641db.gif) | ![Movie App](https://user-images.githubusercontent.com/100320309/205938897-f1156a99-5e70-422f-9b63-be80d0afc954.gif)
+
