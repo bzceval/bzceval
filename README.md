@@ -64,12 +64,8 @@ After 4 years of engineering education, I graduated with a 3.2 GPO as the fourth
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-# 🍕 bdougie's Top 8 Page🍕
+# 🍕 busra's Top 4 Page🍕
 
 [Daily Task App](https://github.com/bzceval/javascript-daily-task-app) | [Cocktail Cheers App](https://github.com/bzceval/reactjs-cocktail-cheers-app) | [Yummy Checkout App](https://github.com/bzceval/javascript-yummy-macaron-app) | [Movie App](https://github.com/bzceval/reactjs-movie-application)
 --- | --- | --- | ---
 ![Daily Task App](https://user-images.githubusercontent.com/100320309/194820640-fd4b09d7-3575-441c-ac5a-67247576350a.gif) | ![@Coctail](https://user-images.githubusercontent.com/100320309/204961075-9f2b7dcd-1b10-447d-8c09-bd3b16f077a9.gif) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
-
-[@m0nica](https://github.com/m0nica) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/)
---- | --- | --- | ---
-![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
