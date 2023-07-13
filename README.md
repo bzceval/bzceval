@@ -53,8 +53,6 @@ After 4 years of engineering education, I graduated with a 3.2 GPO as the fourth
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <br>
-
-<br><br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bzceval&theme=vision-friendly-dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="busraceval" /></p> <br/>
      
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
