@@ -1,5 +1,4 @@
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="300"></br>
-
+[![BusraCeval](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.linkedin.com/in/enesozudogruu/) 
 <br><br>1.  👩🏻‍💻 **ME, MYSELF & I**<br>
 
 &emsp;&emsp;&emsp;<font color="pink"> 🐱‍🏍 I'm Electric and Electronic Engineer but I find myself in software. </font> </br>
