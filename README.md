@@ -20,7 +20,7 @@ After 4 years of engineering education, I graduated with a 3.2 GPO as the fourth
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<br><br>2. 💻 **SKILL, TOOL & SOFTWARE**<br>
+<br>2. 💻 **SKILL, TOOL & SOFTWARE**<br>
 <div>
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/html_aladdinGene.png" width="60" alt="html" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
