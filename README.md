@@ -1,5 +1,4 @@
-[![BusraCeval](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.linkedin.com/in/enesozudogruu/) 
-<br><br>1.  👩🏻‍💻 **ME, MYSELF & I**<br>
+[![BusraCeval](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.linkedin.com/in/busra-zulal-ceval/) 
 
 &emsp;&emsp;&emsp;<font color="pink"> 🐱‍🏍 I'm Electric and Electronic Engineer but I find myself in software. </font> </br>
 &emsp;&emsp;&emsp;<font color="pink">🎆 Exploring routes to new visions and be a part of the new visions. </font>
@@ -18,8 +17,6 @@ After 4 years of engineering education, I graduated with a 3.2 GPO as the fourth
 </details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<br>2. 💻 **SKILL, TOOL & SOFTWARE**<br>
 <div>
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/html_aladdinGene.png" width="60" alt="html" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
